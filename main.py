@@ -1,3 +1,5 @@
+import problema1
+
 edad = 12
 altura = 1.79
 nombre = "Daniel"
@@ -24,4 +26,7 @@ if __name__ == '__main__':
     print(lista1)
 
     print(lista1[3])
+
+    print()
+    problema1.sumar_5_enteros()
 
